@@ -1,4 +1,3 @@
-
 const quotes = [
     "The only thing we have to fear is fear itself. - Franklin D. Roosevelt",
     "I think, therefore I am. - René Descartes",
